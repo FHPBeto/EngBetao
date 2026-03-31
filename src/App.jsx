@@ -197,7 +197,7 @@ function App() {
         <div className="flex justify-center gap-8 text-slate-500 text-sm">
            <a href="https://linkedin.com/in/humberto-engesoftware" target="_blank" rel="noreferrer" className="hover:text-blue-400 transition-colors">LinkedIn</a>
            <a href="https://github.com/FHPBeto" target="_blank" rel="noreferrer" className="hover:text-blue-400 transition-colors">GitHub</a>
-           <a href="mailto:humbertofhp62@gmail.com" className="hover:text-blue-400 transition-colors font-bold text-slate-400">Email</a>
+           <a href="mailto:humberto.software@gmail.com" className="hover:text-blue-400 transition-colors font-bold text-slate-400">Email</a>
         </div>
         
         <p className="mt-10 text-[10px] text-slate-700 uppercase tracking-widest">
