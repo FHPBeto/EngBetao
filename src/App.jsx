@@ -15,7 +15,7 @@ function App() {
     GitHub
   </a>
   {/* Link do LinkedIn adicionado aqui */}
-  <a href="https://linkedin.com/in/humberto-oliveira-software" target="_blank" rel="noreferrer" className="hover:text-blue-400 transition-colors text-xs">
+  <a href="https://linkedin.com/in/humberto-engesoftware" target="_blank" rel="noreferrer" className="hover:text-blue-400 transition-colors text-xs">
     LinkedIn
   </a>
   <a 
@@ -38,7 +38,8 @@ function App() {
             Olá, eu sou o Humberto.
           </h1>
           <p className="text-xl text-slate-400 leading-relaxed mb-10">
-            Unindo 10 anos de liderança e rigor da engenharia ao desenvolvimento de 
+            Unindo 10 anos de liderança. 
+            E rigor da engenharia ao desenvolvimento de 
             soluções digitais escaláveis. Especialista em <span className="text-slate-200 underline decoration-blue-500/50">Full-Stack</span> focado em performance e arquitetura limpa.
           </p>
           
@@ -194,7 +195,7 @@ function App() {
         <h2 className="text-white font-bold mb-6 text-lg">humbertoengsoftware.com.br</h2>
         
         <div className="flex justify-center gap-8 text-slate-500 text-sm">
-           <a href="https://linkedin.com/in/humberto-engsoftware" target="_blank" rel="noreferrer" className="hover:text-blue-400 transition-colors">LinkedIn</a>
+           <a href="https://linkedin.com/in/humberto-engesoftware" target="_blank" rel="noreferrer" className="hover:text-blue-400 transition-colors">LinkedIn</a>
            <a href="https://github.com/FHPBeto" target="_blank" rel="noreferrer" className="hover:text-blue-400 transition-colors">GitHub</a>
            <a href="mailto:humbertofhp62@gmail.com" className="hover:text-blue-400 transition-colors font-bold text-slate-400">Email</a>
         </div>
