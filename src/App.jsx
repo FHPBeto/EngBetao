@@ -19,7 +19,7 @@ function App() {
     LinkedIn
   </a>
   <a 
-    href="/Curriculo-Humberto-Oliveira.pdf" 
+    href="/Curriculo_Humberto_Oliveira.pdf" 
     target="_blank" 
     className="bg-blue-600/10 border border-blue-500/20 text-blue-400 px-3 py-1 rounded-full hover:bg-blue-600/20 transition-all text-[10px] uppercase font-bold"
   >
@@ -38,7 +38,7 @@ function App() {
             Olá, eu sou o Humberto.
           </h1>
           <p className="text-xl text-slate-400 leading-relaxed mb-10">
-            Unindo 10 anos de liderança. 
+            Unindo 15 anos de liderança em Ferramentaria e Projetos na indústria. 
             E rigor da engenharia ao desenvolvimento de 
             soluções digitais escaláveis. Especialista em <span className="text-slate-200 underline decoration-blue-500/50">Full-Stack</span> focado em performance e arquitetura limpa.
           </p>
